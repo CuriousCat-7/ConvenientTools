@@ -59,8 +59,8 @@ endif
 "****************************************
 autocmd BufNewFile *.py call SetPythonHeader()
 autocmd BufNewFile *.hpp,*.cpp,,*.cc,*.[ch],*.sh,*.java call SetHeader()
-let $author_name = "b51"
-let $author_email = "b51live@gmail.com"
+let $author_name = "neo"
+let $author_email = "limingyao128@gmail.com"
 
 func SetHeader()
   "*.sh
